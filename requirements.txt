@@ -1,0 +1,15 @@
+dashscope>=1.25.2
+ddgs>=9.9.1
+fastapi>=0.121.3
+fastapi-cors>=0.0.6
+langchain>=1.0.8
+langchain-community>=0.4.1
+langchain-openai>=1.0.3
+langgraph>=1.0.3
+mss>=10.1.0
+numpy>=2.3.5
+opencv-python>=4.11.0.86
+sounddevice>=0.5.3
+spacy>=3.8.11
+tqdm>=4.67.1
+uvicorn>=0.38.0
