@@ -9,6 +9,7 @@ dependencies = [
     "ddgs>=9.9.1",
     "fastapi>=0.121.3",
     "fastapi-cors>=0.0.6",
+    "jupyterlab>=4.5.0",
     "langchain>=1.0.8",
     "langchain-community>=0.4.1",
     "langchain-openai>=1.0.3",

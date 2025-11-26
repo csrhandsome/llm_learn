@@ -13,3 +13,4 @@ sounddevice>=0.5.3
 spacy>=3.8.11
 tqdm>=4.67.1
 uvicorn>=0.38.0
+jupyterlab
